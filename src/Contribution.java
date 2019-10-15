@@ -1,3 +1,4 @@
+package investmentCalculator;
 
 public class Contribution 
 {
